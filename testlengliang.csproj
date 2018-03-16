@@ -318,7 +318,7 @@
     <Compile Include="Assets\Scripts\downtween.cs" />
     <Compile Include="Assets\Scripts\test\test.cs" />
     <Compile Include="Assets\Scripts\test\TestIn.cs" />
-    <Compile Include="Assets\TestLoad.cs" />
+    <Compile Include="Assets\Scripts\test\TestLoad.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Demigiant\DOTween\DOTween.XML" />
