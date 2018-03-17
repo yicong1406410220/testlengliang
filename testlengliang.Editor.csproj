@@ -289,6 +289,9 @@
     <Reference Include="DOTweenProEditor">
       <HintPath>Assets/Demigiant/DOTweenPro/Editor/DOTweenProEditor.dll</HintPath>
     </Reference>
+    <Reference Include="LitJson">
+      <HintPath>Assets/Plugins/LitJson.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEngine.Advertisements">
       <HintPath>C:/Users/易葱/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.ads@2.0.3/UnityEngine.Advertisements.dll</HintPath>
     </Reference>

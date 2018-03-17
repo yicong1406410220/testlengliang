@@ -7,6 +7,7 @@ public class Person : MapC{
 
 }
 
+[SerializeField]
 public class MapC
 {
     public string name;
@@ -24,5 +25,5 @@ public class Prop : MapC
 public class MuchCard
 {
     public Person[] persons;
-    public Prop[] Props;
+    public Prop[] props;
 }

@@ -1,0 +1,27 @@
+{
+    "persons": [
+        { "name": "博丽灵梦", "imagePath": "reimu", "nature": "人物卡" },
+        { "name": "琪露诺", "imagePath": "cirno", "nature": "人物卡" },
+        { "name": "雾雨魔理沙", "imagePath": "marisa", "nature": "人物卡" },
+        { "name": "魂魄妖梦", "imagePath": "youmu", "nature": "人物卡" },
+        { "name": "比那名居天子", "imagePath": "tenshi", "nature": "人物卡" },
+        { "name": "博丽灵梦", "imagePath": "reimu", "nature": "人物卡" },
+        { "name": "琪露诺", "imagePath": "cirno", "nature": "人物卡" },
+        { "name": "雾雨魔理沙", "imagePath": "marisa", "nature": "人物卡" },
+        { "name": "魂魄妖梦", "imagePath": "youmu", "nature": "人物卡" },
+        { "name": "比那名居天子", "imagePath": "tenshi", "nature": "人物卡" },
+        { "name": "博丽灵梦", "imagePath": "reimu", "nature": "人物卡" },
+        { "name": "琪露诺", "imagePath": "cirno", "nature": "人物卡" },
+        { "name": "雾雨魔理沙", "imagePath": "marisa", "nature": "人物卡" },
+        { "name": "魂魄妖梦", "imagePath": "youmu", "nature": "人物卡" },
+        { "name": "比那名居天子", "imagePath": "tenshi", "nature": "人物卡" }
+    ],
+    "props": [
+        {"name": "宴会", "imagePath": "reimu", "nature": "回复满血量"},
+        {"name": "宴会", "imagePath": "reimu", "nature": "回复满血量"},
+        {"name": "寒冰剑", "imagePath": "reimu", "nature": "武器6"},
+        {"name": "寒冰剑", "imagePath": "reimu", "nature": "武器6"},
+        {"name": "寒冰剑", "imagePath": "reimu", "nature": "武器6"},
+        {"name": "商店", "imagePath": "reimu", "nature": "购买物品"}
+    ]
+}
