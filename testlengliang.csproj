@@ -310,15 +310,26 @@
     <Reference Include="UnityEngine.StandardEvents">
       <HintPath>C:/Users/易葱/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.10/UnityEngine.StandardEvents.dll</HintPath>
     </Reference>
+    <Reference Include="ChannelPurchase">
+      <HintPath>C:/Users/易葱/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.xiaomi@1.0.0/UnityChannel/ChannelPurchase.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityStore">
+      <HintPath>C:/Users/易葱/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.xiaomi@1.0.0/UnityChannel/UnityStore.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Demigiant\DOTweenPro\DOTweenAnimation.cs" />
+    <Compile Include="Assets\GameController.cs" />
     <Compile Include="Assets\Scripts\AboutTween.cs" />
     <Compile Include="Assets\Scripts\ButtonCode.cs" />
     <Compile Include="Assets\Scripts\downtween.cs" />
+    <Compile Include="Assets\Scripts\MapCard.cs" />
+    <Compile Include="Assets\Scripts\Person.cs" />
     <Compile Include="Assets\Scripts\test\test.cs" />
     <Compile Include="Assets\Scripts\test\TestIn.cs" />
     <Compile Include="Assets\Scripts\test\TestLoad.cs" />
+    <Compile Include="Assets\Scripts\test\Texttextload.cs" />
+    <Compile Include="Packages\com.unity.xiaomi@1.0.0\UnityChannel\XiaomiSupport\AppStoreSettings.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Demigiant\DOTween\DOTween.XML" />
