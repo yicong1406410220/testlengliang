@@ -846,7 +846,7 @@ Prefab:
     m_Modifications:
     - target: {fileID: 4673511705734554, guid: 7fa2cd73d018f9849ac525204a26b45f, type: 2}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: 20
       objectReference: {fileID: 0}
     - target: {fileID: 4673511705734554, guid: 7fa2cd73d018f9849ac525204a26b45f, type: 2}
       propertyPath: m_LocalPosition.y
@@ -875,6 +875,11 @@ Prefab:
     - target: {fileID: 4673511705734554, guid: 7fa2cd73d018f9849ac525204a26b45f, type: 2}
       propertyPath: m_RootOrder
       value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 212586783385730550, guid: 7fa2cd73d018f9849ac525204a26b45f,
+        type: 2}
+      propertyPath: m_DrawMode
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 7fa2cd73d018f9849ac525204a26b45f, type: 2}
@@ -1538,6 +1543,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54bb4bbf7063da240a7688714eecd890, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  ps:
+  - {fileID: 1871869512}
+  - {fileID: 1179528362}
+  - {fileID: 685072035}
+  - {fileID: 1206556278}
+  mCard: {fileID: 1121852271175052, guid: 7fa2cd73d018f9849ac525204a26b45f, type: 2}
 --- !u!1 &1633373499
 GameObject:
   m_ObjectHideFlags: 0
